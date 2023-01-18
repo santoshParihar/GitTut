@@ -1,2 +1,1 @@
-console.log("fourth version 120");
-console.log("fourth version 300");
+console.log("fourth version 12");
